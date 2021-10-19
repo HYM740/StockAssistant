@@ -1,6 +1,7 @@
 # Stock Assistant
 
 Coockie Clicker([Steam](https://store.steampowered.com/app/1454400/Cookie_Clicker/))股票辅助 mod
+
 此 mod 不影响 Steam 成就。
 
 ![StockAssistant](https://user-images.githubusercontent.com/91243835/134629261-f57cc796-f5b0-42aa-ae54-ed194ab2486a.png)
